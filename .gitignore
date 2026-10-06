@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.csv
+*.csv.gz
+*.pkl
+out*/
+paper_figures/
+.DS_Store
